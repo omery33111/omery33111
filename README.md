@@ -1,3 +1,1 @@
-### Hi there 👋
-
-<p align="center"><b>Hello, world!</b></p>
+### <p align="center"><b>Omer Yanai</b></p>
