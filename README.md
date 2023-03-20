@@ -4,4 +4,4 @@
 I excel at creating responsive and visually appealing websites using the latest technologies and programming languages. I am currently seeking a job in the industry where I can apply my skills and knowledge to create innovative and high-quality web solutions for clients.
 
 ####
-<p align="center"> [![Python logo](/path/to/python_logo.png)](https://firebase.google.com/) </p>
+<p align="center"> https://www.python.org/static/community_logos/python-logo.png </p>
