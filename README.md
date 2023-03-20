@@ -11,4 +11,4 @@ I excel at creating responsive and visually appealing websites using the latest 
 
 <img src="https://user-images.githubusercontent.com/110463400/226392547-53622af3-a1e1-417c-a78b-795a5771a3a1.svg" width="100" height="100" />
 
-<img src="![image](https://user-images.githubusercontent.com/110463400/226394183-8788aa7a-a881-4f15-91b9-c8b0ff067ca7.png)" width="100" height="100" />
+<img src="https://user-images.githubusercontent.com/110463400/226394183-8788aa7a-a881-4f15-91b9-c8b0ff067ca7.png" width="100" height="100" />
