@@ -26,9 +26,13 @@ I excel at creating responsive and visually appealing websites using the latest 
   <img src="https://user-images.githubusercontent.com/110463400/226397616-3ffeb0e4-01eb-4fc7-a3e5-6825bd1fa315.svg" width="70" height="70" />
 
   <img src="https://user-images.githubusercontent.com/110463400/226397744-b8d5e614-9972-4d81-b0c2-2892386f3ce7.svg" width="70" height="70" />
-  
-  <img src="https://user-images.githubusercontent.com/110463400/226397744-b8d5e614-9972-4d81-b0c2-2892386f3ce7.svg" width="70" height="70" />
 
   <img src="https://user-images.githubusercontent.com/110463400/226398274-4881d116-249b-4969-9ca4-781431bf4d70.png" width="70" height="70" />
+  
+  <img src="https://user-images.githubusercontent.com/110463400/226399013-289271e2-949f-4bbd-874a-3a4070f9ea57.png" width="70" height="70" />
+
+  <img src="https://user-images.githubusercontent.com/110463400/226399258-f8c07ff4-f386-46f8-9d5c-d75585a9e6a4.png" width="70" height="70" />
+  
+  <img src="https://user-images.githubusercontent.com/110463400/226399337-ec31beb1-5974-448e-b606-aaf3166da1e4.svg" width="70" height="70" />
 
 </div>
