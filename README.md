@@ -1,4 +1,6 @@
-## <p align="center"><b>Omer Yanai</b></p>
+## <p align="center"><b>
+  <img src="https://user-images.githubusercontent.com/110463400/226433250-e1afd337-2113-4782-a1c9-ef83abb41de4.png" width="50" height="50" />
+  Omer Yanai</b></p>
 ### <p align="center"><b>Web Application Developer</b></p>
 #### Currently self employed.
 I excel at creating responsive and visually appealing websites using the latest technologies and programming languages. I am currently seeking a job in the industry where I can apply my skills and knowledge to create innovative and high-quality web solutions for clients.
