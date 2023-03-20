@@ -7,7 +7,8 @@ I excel at creating responsive and visually appealing websites using the latest 
 ####
 <img src="https://user-images.githubusercontent.com/110463400/226392351-76e3695b-8034-4c96-97f5-5644a0819f42.svg" width="100" height="100" />
 
-![javascript-original](https://user-images.githubusercontent.com/110463400/226392523-ae2bfecc-465f-4689-be6e-d75b308919f6.svg)
+<img src="https://user-images.githubusercontent.com/110463400/226392523-ae2bfecc-465f-4689-be6e-d75b308919f6.svg" width="100" height="100" />
 
-<img ![typescript-original](https://user-images.githubusercontent.com/110463400/226392547-53622af3-a1e1-417c-a78b-795a5771a3a1.svg) width="100" height="100" />
+<img src="https://user-images.githubusercontent.com/110463400/226392547-53622af3-a1e1-417c-a78b-795a5771a3a1.svg" width="100" height="100" />
 
+<img src="![image](https://user-images.githubusercontent.com/110463400/226394183-8788aa7a-a881-4f15-91b9-c8b0ff067ca7.png)" width="100" height="100" />
