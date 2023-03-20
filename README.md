@@ -15,4 +15,12 @@ I excel at creating responsive and visually appealing websites using the latest 
 
   <img src="https://user-images.githubusercontent.com/110463400/226394421-c49d7c2b-d1eb-457c-8041-6ef704336021.png" width="70" height="70" />
   
+  <img src="https://user-images.githubusercontent.com/110463400/226394421-c49d7c2b-d1eb-457c-8041-6ef704336021.png" width="70" height="70" />
+  
+  <img src="https://user-images.githubusercontent.com/110463400/226394421-c49d7c2b-d1eb-457c-8041-6ef704336021.png" width="70" height="70" />
+  
+  <img src="https://user-images.githubusercontent.com/110463400/226394421-c49d7c2b-d1eb-457c-8041-6ef704336021.png" width="70" height="70" />
+  
+  <img src="https://user-images.githubusercontent.com/110463400/226394421-c49d7c2b-d1eb-457c-8041-6ef704336021.png" width="70" height="70" />
+  
 </div>
