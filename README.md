@@ -5,7 +5,7 @@ I excel at creating responsive and visually appealing websites using the latest 
 
 <div style="height: "50px" " />
 
-<div style="display:flex">
+<div align="center" style="display:flex">
   
   <img src="https://user-images.githubusercontent.com/110463400/226392351-76e3695b-8034-4c96-97f5-5644a0819f42.svg" width="60" height="60" />
 
