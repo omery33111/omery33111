@@ -10,8 +10,8 @@ global online stores, as well as community platforms, and content management sys
 
 <div style="height: "50px" " />
 
-<div align="center" style="display:flex">
-  
+<div align="center" style="display: flex; gap: 5px;">
+
   <img src="https://user-images.githubusercontent.com/110463400/226392351-76e3695b-8034-4c96-97f5-5644a0819f42.svg" width="50" height="50" />
 
   <img src="https://user-images.githubusercontent.com/110463400/226392523-ae2bfecc-465f-4689-be6e-d75b308919f6.svg" width="50" height="50" />
