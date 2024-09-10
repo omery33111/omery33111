@@ -1,6 +1,11 @@
 ## <p align="center"><b>Omer Yanai</b></p>
 ### <p align="center"><b>Web Application Developer</b></p>
-I excel at creating responsive and visually appealing websites using the latest technologies and programming languages. I am currently seeking a job in the industry where I can apply my skills and knowledge to create innovative and high-quality web solutions for clients.
+
+Junior Full Stack Developer at Kohi
+I'm passionate to work as a front-end developer in a collaborative environment.
+
+My work includes e-commerce platforms that match the standards and features of top 
+global online stores, as well as community platforms, and content management systems (CMSs).
 
 <div style="height: "50px" " />
 
