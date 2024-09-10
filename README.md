@@ -2,6 +2,7 @@
 ### <p align="center"><b>Web Application Developer</b></p>
 
 Junior Full Stack Developer at Kohi
+
 I'm passionate to work as a front-end developer in a collaborative environment.
 
 My work includes e-commerce platforms that match the standards and features of top 
