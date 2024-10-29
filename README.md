@@ -3,10 +3,9 @@
 
 Junior Full Stack Developer at Kohi (Startup) 
 
-I'm passionate to work as a front-end developer in a collaborative environment.
 
 My work includes e-commerce platforms that match the standards and features of top 
-global online stores, as well as community platforms, and content management systems (CMSs).
+global online stores, as well as SaaS platforms and community platforms (LMSs), and content management systems (CMSs).
 
 <div style="height: "50px" " />
 
