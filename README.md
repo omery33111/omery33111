@@ -1,7 +1,7 @@
 ## <p align="center"><b>Omer Yanai</b></p>
 ### <p align="center"><b>Web Application Developer</b></p>
 
-Junior Full Stack Developer at Kohi
+Junior Full Stack Developer at Kohi (Startup) 
 
 I'm passionate to work as a front-end developer in a collaborative environment.
 
